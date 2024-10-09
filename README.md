@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 - **Databases:** MySQL, PostgreSQL
 - **Tools:** Git, Docker
   
-##🌱 **I’m currently learning**
-- React Native
-- Express
+## 🌱 Currently Learning
+- TypeScript
+- Next.js
   
 ##👯 I’m looking to collaborate on ...
 ##🤔 I’m looking for help with ...
