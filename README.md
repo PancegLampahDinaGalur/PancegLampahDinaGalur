@@ -4,12 +4,12 @@ Welcome to my GitHub profile! I'm a **programmer** with a passion for **web deve
 
 Here are some ideas to get you started:
 
- 🔭 I’m currently working on ...
- 🔧 Technologies & Tools
-  **Programming Languages:** JavaScript, HTML, CSS, Python
-  **Frameworks:** React, Node.js, Express
-  **Databases:** MongoDB, PostgreSQL
-  **Tools:** Git, Docker, Webpack
+ - 🔭 I’m currently working on ...
+ ## 🔧 Technologies & Tools
+- **Programming Languages:** JavaScript, HTML, CSS
+- **Frameworks:** React, Node.js, Express
+- **Databases:** MySQL, PostgreSQL
+- **Tools:** Git, Docker
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
