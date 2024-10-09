@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a **programmer** with a passion for **web deve
 
 Here are some ideas to get you started:
 
- - 🔭 I’m currently working on ...
+ - 🔭 I’m currently working on PT TOYOTA MOTOR MANUFACTURING INDONESIA as DX Team Development
  ## 🔧 Technologies & Tools
 - **Programming Languages:** JavaScript, HTML, CSS
 - **Frameworks:** React, Node.js, Express
