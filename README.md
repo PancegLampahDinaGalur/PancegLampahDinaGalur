@@ -1,6 +1,6 @@
 # Hi there, I'm Pajar Arifin 👋
 
-Welcome to my GitHub profile! I'm a **programmer** with a passion for **web development**. I love creating interactive and responsive web applications that enhance user experiences.
+Welcome to my GitHub profile! I'm a **Programmer** with a passion for **Web Development**. I love creating interactive and responsive web applications that enhance user experiences.
 
 Here are some ideas to get you started:
 
@@ -9,11 +9,14 @@ Here are some ideas to get you started:
 - **Programming Languages:** JavaScript, HTML, CSS
 - **Frameworks:** React, Node.js, Express
 - **Databases:** MySQL, PostgreSQL
-- **Tools:** Git, Docker
+- **Tools:** Git, Docker, Vs Code
   
 ## 🌱 Currently Learning
-- TypeScript
+- React Native
 - Next.js
+- Express
+- Node.js
+- React
   
 ##👯 I’m looking to collaborate on ...
 ##🤔 I’m looking for help with ...
